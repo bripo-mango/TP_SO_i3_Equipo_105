@@ -1,0 +1,11 @@
+Cespedes Braian
+Luis Andaur
+Santiago Fossa
+
+
+Beta
+A)La rama main queda con todos los archivos creados y sus contenidos.
+B)Si pude ver todos los cambios.
+C)use los comandos git merge upstream/main
+
+ 
