@@ -1,1 +1,15 @@
-
+Santiago Fossa
+default via 192.168.0.1 dev enp0s3 proto dhcp metric 100 
+169.254.0.0/16 dev enp0s3 scope link metric 1000 
+192.168.0.0/24 dev enp0s3 proto kernel scope link src 192.168.0.95 metric 100 
+22:33:19
+Luis Andaur
+default via 192.168.1.1 dev enp0s3 proto dhcp metric 100 
+169.254.0.0/16 dev enp0s3 scope link metric 1000 
+192.168.1.0/24 dev enp0s3 proto kernel scope link src 192.168.1.37 metric 100 
+22:47:22
+Braian Cespedes
+default via 10.0.2.2 dev enp0s3 proto dhcp metric 100 
+10.0.2.0/24 dev enp0s3 proto kernel scope link src 10.0.2.15 metric 100 
+169.254.0.0/16 dev enp0s3 scope link metric 1000 
+23:00:11
