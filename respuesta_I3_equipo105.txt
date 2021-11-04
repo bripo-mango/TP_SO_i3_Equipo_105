@@ -13,4 +13,5 @@ D)No quedan actualizados
 E)No supimos todos los comandos para hacer el merge. Hicimos gran parte en github
 F)git checkout cespedes, git pull, echo "Santiago Fossa" >> beta.txt, ifconfig >> beta.txt, date +%T >> beta.txt, git add ., git commit, git push
 
-
+Alfa
+G)git checkout cespedes, git pull, echo "Luis Andaur" >> beta.txt, ifconfig >> beta.txt, date +%T >> beta.txt, git add ., git commit, git push
