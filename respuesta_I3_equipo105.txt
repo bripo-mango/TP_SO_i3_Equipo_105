@@ -8,4 +8,9 @@ A)La rama main queda con todos los archivos creados y sus contenidos.
 B)Si pude ver todos los cambios.
 C)use los comandos git merge upstream/main
 
- 
+Gamma
+D)No quedan actualizados
+E)No supimos todos los comandos para hacer el merge. Hicimos gran parte en github
+F)git checkout cespedes, git pull, echo "Santiago Fossa" >> beta.txt, ifconfig >> beta.txt, date +%T >> beta.txt, git add ., git commit, git push
+
+
